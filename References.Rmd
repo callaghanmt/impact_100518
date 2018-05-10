@@ -46,3 +46,9 @@ booktitle = {CSLI Lecture Notes, Stanford, CA: Center for the Study of Language 
   publisher={Research Software Engineers Association}
 }
 
+@misc{framework for responsible innovation - epsrc website, 
+  title={Pathways to Impact - guidance for applicants and reviewers},
+  url={https://epsrc.ukri.org/funding/applicationprocess/preparing/impactguidance/},
+  journal={Framework for Responsible Innovation - EPSRC website}, 
+  publisher={Engineering and Physical Sciences Research Council}
+}

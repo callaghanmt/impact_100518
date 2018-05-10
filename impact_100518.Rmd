@@ -78,7 +78,9 @@ knitr::include_graphics("images/neuralnet.jpeg")
 
 - Deep Learning networks (written in Python)
 - Graph construction and navigation (written in Python)
-- Some data analysis (code written in R) 
+- Some data analysis (code written in R)\newline\newline
+
+**Lots of writing, lots of code**
 
 ## 6. Research Software Engineering
 *'Software is fundamental to research. From the humanities to physics, biology to archaeology, software plays a vital role in generating results. Not all researchers can become skilled software engineers, so a new role has developed in academia: the Research Software Engineer (RSE).'*\newline\newline
@@ -93,7 +95,9 @@ Knuth (1992)
 ## 7b. Literate Programming and Open Science
 Tools such as Jupyter Notebooks facilitate literate and open programming (sharability, reproducibility):
 
-[image]
+```{r, fig.align="center",out.width = "240px"}
+knitr::include_graphics("images/jupyter.png")
+```
 
 ## 8. Good practice and code discoverability
 
@@ -103,17 +107,27 @@ Tools such as Jupyter Notebooks facilitate literate and open programming (sharab
 - Provide tests, installation and usage instructions
 - Release versions of code for publications
 - Obtaining DOI and citing code in own publications (eg. [Zenodo](https://zenodo.org/))\newline\newline
+
 **Tashchuk and Wilson (2017)**
 
 
 ## 9. Driving impact and discoverability
-
+```{r, fig.align="center",out.width = "240px"}
+knitr::include_graphics("images/impact.png")
+```
 
 ## 10. Is research code valued?
-Funding councils seem to think so...
+Funding councils seem to think so. **EPSRC(2017)**
+```{r, fig.align="center",out.width = "170px"}
+knitr::include_graphics("images/pathways.png")
+```
+
 
 ## 11. Final thoughts
-
+**Potential Workflow**
+```{r, fig.align="center",out.width = "260px"}
+knitr::include_graphics("images/workflow.png")
+```
 ## References:
 See Github repository:
 \newline
