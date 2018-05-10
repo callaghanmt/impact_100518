@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## 1. About me: Martin Callaghan
 * Part-time PhD at SHU
-    + Deep Learning for text summarisation
+    + Deep Learning for multi-document summarisation
 \newline
 * Research Computing Consultant at University of Leeds
     + High Performance Computing
