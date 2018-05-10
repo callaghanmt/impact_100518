@@ -84,13 +84,15 @@ knitr::include_graphics("images/neuralnet.jpeg")
 
 ## 6. Research Software Engineering
 *'Software is fundamental to research. From the humanities to physics, biology to archaeology, software plays a vital role in generating results. Not all researchers can become skilled software engineers, so a new role has developed in academia: the Research Software Engineer (RSE).'*\newline\newline
+
 **Research Software Engineers Association (2017)**
 
 
 
 ## 7a. Literate Programming and Open Science
 *'Literate programming is a programming paradigm in which a program is given as an explanation of the program logic in a natural language, such as English, interspersed with snippets of macros and traditional source code, from which a compilable source code can be generated'*\newline
-Knuth (1992)
+
+**Knuth (1992)**
 
 ## 7b. Literate Programming and Open Science
 Tools such as Jupyter Notebooks facilitate literate and open programming (sharability, reproducibility):
