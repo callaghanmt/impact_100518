@@ -34,6 +34,7 @@ knitr::opts_chunk$set(echo = FALSE)
     + Graph networks to store semantic structure
     + GPUs for high performance computation
     
+  
 ## 3. Potential and impact of research
 
 * Enormous volumes of new information are published daily
