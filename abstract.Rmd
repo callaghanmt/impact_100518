@@ -1,0 +1,34 @@
+---
+title: "Abstract for IMPACT@SHU 10th May 2018"
+author: "Martin Callaghan"
+date: "09/05/2018"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Abstract
+
+Many researchers feel that the only way of demonstrating the impact of their work is to publish in a reputable journal and then encourage and measure citations.  This is a system that works well for many forms of research, but there are additional or alternative routes to demonstrate impact for research activities that involve the development of research software.
+
+My research involves the investigation, training and use of neural network models to summarise text at scale and will create a number of pieces of software.  I’m developing code to:
+
+●	Clean and format data
+●	Create and test ‘Deep Learning’ neural networks
+●	Train networks against datasets
+●	Use trained networks to summarise text
+●	Measure the effectiveness and efficiency of the networks and models I have created
+
+This is applied research. I am investigating how to re-use and re-combine a number of existing tools and techniques in novel ways.
+
+I’m keen to investigate how I will be able to measure the impact of my code, as this will be my primary output.
+
+In this talk I will discuss, with reference to the code I’m developing:
+
+●	The nature and type of research that has a primary output of software (or ‘code’).
+●	How literate programming techniques can help make code more intelligible and useful to other researchers.
+●	Tools and methods to make code discoverable and how preprint servers can help to publicise this.
+●	The role of social networks and social reference managers to help drive impact and exposure of research code.
+●	Whether funders and the wider research community understand and value research code and applied research in the same way that other forms of research output are valued.

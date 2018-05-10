@@ -1,0 +1,48 @@
+---
+title: "References"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## References
+@BOOK{1992lipr.book.....K,
+   author = {{Knuth}, D.~E.},
+    title = "{Literate programming}",
+booktitle = {CSLI Lecture Notes, Stanford, CA: Center for the Study of Language and Information (CSLI), 1992},
+     year = 1992,
+   adsurl = {http://adsabs.harvard.edu/abs/1992lipr.book.....K},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@article{taschuk2017ten,
+  title={Ten simple rules for making research software more robust},
+  author={Taschuk, Morgan and Wilson, Greg},
+  journal={PLoS computational biology},
+  volume={13},
+  number={4},
+  pages={e1005412},
+  year={2017},
+  publisher={Public Library of Science}
+}
+
+@article{lecun2015deep,
+  title={Deep learning},
+  author={LeCun, Yann and Bengio, Yoshua and Hinton, Geoffrey},
+  journal={nature},
+  volume={521},
+  number={7553},
+  pages={436},
+  year={2015},
+  publisher={Nature Publishing Group}
+}
+
+@misc{research software engineers association, 
+  title={Who is a Research Software Engineer?}, 
+  url={http://rse.ac.uk/who/}, 
+  journal={Research Software Engineers Association}, 
+  publisher={Research Software Engineers Association}
+}
+
